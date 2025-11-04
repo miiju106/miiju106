@@ -2,7 +2,7 @@
 
 #### I am Samuel Adeleke.
 
-I am a Front-end developer with excellent skills in JavaScript, HTML/CSS, Bootstrap, TailwindCSS, React.js and Next.js. I am currently learning Node.js and ExpressJS for backend development.
+I am a Front-end developer with excellent skills in JavaScript, Typescript, Python, HTML/CSS, TailwindCSS, React.js, Next.js and backend technologies (Node.js and Express.js). I am currently honing my skills in machine learning and quantum computing.
 
 
 Looking Forward to meeting you!
